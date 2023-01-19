@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.186" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-01-19T14:11:17" tests="0" file="src/e2e/spec.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="spec.cy.js" timestamp="2023-01-19T14:11:17" tests="1" time="0.123" failures="0">
+    <testcase name="spec.cy.js should work" time="0.123" classname="should work">
+    </testcase>
+  </testsuite>
+  <testsuite name="spec.cy.js" timestamp="2023-01-19T14:11:17" tests="1" time="0.057" failures="0">
+    <testcase name="spec.cy.js should work" time="0.058" classname="should work">
+    </testcase>
+  </testsuite>
+</testsuites>

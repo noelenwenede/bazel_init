@@ -1,1 +1,13 @@
 node_modules
+/node_modules
+node_modules
+node_modules/
+bazel-ade/
+bazel-bin/
+bazel-out/
+bazel-testlogs/
+
+/bazel-ade
+/bazel-bin
+/bazel-out
+/bazel-testlogs
