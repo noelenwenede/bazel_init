@@ -59,6 +59,9 @@ npm_translate_lock(
         "react-scripts": {
             "react-scripts": "./bin/react-scripts.js",
         },
+        "cypress": {
+            "cypress": "./bin/cypress",
+        }
     },
     pnpm_lock = "//:pnpm-lock.yaml",
     public_hoist_packages = {
